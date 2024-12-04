@@ -3,7 +3,7 @@
 ![](https://github.com/hansalemaos/cython_print_cpp_stlcontainer/blob/main/example_output.png?raw=true)
 
 
-### Download the C++ header file here:
+### Download the C++ header file here, and compile the Cython file with "/std:c++20" or "-std=c++2a"
 
 https://github.com/hansalemaos/stl_pretty_print/blob/main/prettyprint.hpp
 
